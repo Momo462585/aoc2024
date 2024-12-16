@@ -10,3 +10,4 @@ for element in list:
     sum += int(element[0]) * int(element[1])
 
 print(sum)
+absjgasxjk
