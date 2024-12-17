@@ -35,5 +35,3 @@ differences = [(abs(a-b) )for a,b in zip(arrary1,arrary2)]
 
 print (differences)
 '''
-
-# Test änderung
