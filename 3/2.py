@@ -18,4 +18,4 @@ for element in list:
     sum += mul
 
 print(sum)
-print("Test")
+
